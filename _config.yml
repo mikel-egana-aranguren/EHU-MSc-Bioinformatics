@@ -1,11 +1,12 @@
 title:            Bioinformatics MSc (UPV/EHU)
-description:      Bioinformatics MSc (UPV/EHU).
-logo:             site-logo.png
+description:      
+# logo:             site-logo.png
 disqus_shortname:
-search:           true
+# search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics/
+# url:              http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics/
+url:            //localhost:4000
 
 # Owner/author information
 owner:
@@ -13,16 +14,16 @@ owner:
   avatar:         bio-photo.jpg
   email:          mikel.egana.aranguren@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
+#   twitter:
+#   facebook:
+  github: mikel-egana-aranguren
+#   stackexchange:
+#   linkedin:
+#   instagram:
+#   flickr:
+#   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+#   google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -33,15 +34,25 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Home
+    url: /
+  - title: Programme
+    url: /programme/
+  - title: Projects
+    url: /projects/
+  - title: Admin
+    url: /admin/
+    
+    
+#   - title: About
+#     url: /about/
+#   - title: Articles
+#     url: /articles/
+#   - title: Theme Setup
+#     url: /theme-setup/
+#   - title: Made Mistakes
+#     url: http://mademistakes.com
+#     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
