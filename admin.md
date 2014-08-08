@@ -11,26 +11,16 @@ image:
 share: 
 ---
 
-Registration
+**Registration**
 
-Registration for the 2015/2016 course can be done here. Registration is open from to . 
+Registration for the 2015/2016 course can be done here. Registration is open from to . If you have any questions about the registration process, contact Nerea Elorrieta (nerea.elorrieta@ehu.es) CC-ing Mikel Egaña Aranguren (mikel.egana@ehu.es).
 
-If you have any questions about the registration process, contact Nerea Elorrieta CC-ing Mikel Egaña.
+**Contact and enquiries**
 
-Contact and enquiries
+For overall enquiries about the MSc, contact Mikel Egaña Aranguren (mikel.egana@ehu.es), CC-ing Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher.
 
-For overall enquiries about the MSc, contact mikel, CC-ing Andone.
+**Staff** 
 
-For specific questions about projects or taught modules, contact the responsible teacher.
+* Director: Andone Estonba.
+* Scientific director: Mikel Egaña Aranguren.
 
-Staff
-
-Director: Andone Estonba
-Scientific director: Mikel Egaña Aranguren
-Lecturers:
-Marcos
-Borja
-Iñaki
-Mark
-Darren
-Mikel

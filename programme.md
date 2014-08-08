@@ -11,10 +11,8 @@ image:
 share: 
 ---
 
-Taught modules
-
 Semester 1
 
 Semester 2
 
-Project
+Summer Project
