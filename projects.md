@@ -12,7 +12,8 @@ share:
 ---
 
 
-**About**
+About
+=====
 
 The project is carried out from May to September. Two types of projects are available:
 
@@ -23,15 +24,14 @@ The project is carried out from May to September. Two types of projects are avai
 Each student should choose one of projects described bellow and contact the tutor. It is recommended that the project is chosen after the tutor has done her/his teaching (most probably in the second semester), since the teaching will be used to explain the project. The projects should be chosen by May and the tutors contacted by the students: the projects will be assigned in a first come first served basis, in the unlikely case of project overbooking.
 
 
-**Available projects (TBA)**
+Available projects
+==================
 
-Research projects.
+Research projects
 
 | Project        | Tutor           | Description  |
 | ------------- |-------------| -----|
-|  TBA     | TBA | TBA |
-
-
+|  TBA     | Alberto Labarga | TBA |
 
 
 Development projects
