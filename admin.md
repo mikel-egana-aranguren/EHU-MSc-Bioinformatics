@@ -27,9 +27,13 @@ Staff
 * Director: [Andone Estonba](http://www.ehu.es/eu/web/gaffa/content/-/asset_publisher/q66H/content/info_pag_andone_estonba).
 * Scientific director: [Mikel Egaña Aranguren](http://mikeleganaaranguren.com).
 
-Confirmed lecturers
-===================
+Lecturers
+=========
 
 * Alberto Labarga, [NavarraBiomed](http://navarrabiomed.es/).
 * Marcos Arauzo, [BioDonostia](http://www.biodonostia.org/en/areas_investigacion/bioengineering/computacional-biology-and-systems-biomedicine/).
+* Iratxe Zarraonaindia [Genomic Resources](http://www.genomic-resources.eu/).
+* Andone Estonba [Genomic Resources](http://www.genomic-resources.eu/).
+* Mikel Egaña Aranguren [Genomic Resources](http://www.genomic-resources.eu/).
+* More lecturers to be confirmed.
 

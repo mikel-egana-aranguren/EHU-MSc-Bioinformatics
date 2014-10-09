@@ -27,15 +27,11 @@ Each student should choose one of projects described bellow and contact the tuto
 Available projects
 ==================
 
-Research projects
-
-| Project        | Tutor           | Description  |
+| Project | Tutor | Description  | Research/Development |
 | ------------- |-------------| -----|
-|  TBA     | Alberto Labarga | TBA |
+|  TBA     | Alberto Labarga | TBA |  TBA |
+|  TBA     | Mikel Egaña Aranguren | TBA |  TBA |
+|  TBA     | Marcos Arauzo | TBA |  TBA |
+|  TBA     | Iratxe Zarraonaindia | TBA |  TBA |
 
 
-Development projects
-
-| Project        | Tutor           | Description  |
-| ------------- |-------------| -----|
-|  TBA     | TBA | TBA |
