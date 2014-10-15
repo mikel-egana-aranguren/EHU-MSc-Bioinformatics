@@ -32,8 +32,12 @@ Lecturers
 
 * Alberto Labarga, [NavarraBiomed](http://navarrabiomed.es/).
 * Marcos Arauzo, [BioDonostia](http://www.biodonostia.org/en/areas_investigacion/bioengineering/computacional-biology-and-systems-biomedicine/).
+* Mark D. Wilkinson [Biological Informatics Group](http://www.wilkinsonlab.info/).
 * Iratxe Zarraonaindia [Genomic Resources](http://www.genomic-resources.eu/).
 * Andone Estonba [Genomic Resources](http://www.genomic-resources.eu/).
 * Mikel Egaña Aranguren [Genomic Resources](http://www.genomic-resources.eu/).
+* Igor Santos [S3Lab](http://s3lab.deusto.es).
+* Javier Nieves [http://s3lab.deusto.es](http://s3lab.deusto.es).
+* Borja Sanz [http://s3lab.deusto.es](http://s3lab.deusto.es).
 * More lecturers to be confirmed.
 

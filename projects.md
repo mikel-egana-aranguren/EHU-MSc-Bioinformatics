@@ -33,5 +33,8 @@ Available projects
 |  TBA     | Mikel Egaña Aranguren | TBA |  TBA |
 |  TBA     | Marcos Arauzo | TBA |  TBA |
 |  TBA     | Iratxe Zarraonaindia | TBA |  TBA |
+|  TBA     | Igor Santos | TBA |  Development |
+|  TBA     | Mark D. Wilkinson | TBA |  TBA |
+
 
 

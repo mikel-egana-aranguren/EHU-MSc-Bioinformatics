@@ -17,4 +17,4 @@ Semester 1
 
 Semester 2
 
-Summer Project
+Project

@@ -16,7 +16,7 @@ Books
 
 Arthur M. Lesk. Introduction to Bioinformatics. [Oxford University Press](http://ukcatalogue.oup.com/product/9780199651566.do).
 
-Bioinformatics data skills. O'reilly shop.oreilly.com/product/0636920030157.do
+Bioinformatics data skills. [O'reilly](http://shop.oreilly.com/product/0636920030157.do)
 
 Mikel Egaña Aranguren, Robert Stevens, Erick Antezana, Jesualdo Tomás Fernández-Breis, Martin Kuiper, Vladimir Mironov. Technologies and best practices for building bio-ontologies. In Marco Ramoni and Gil Alterovitz (Eds), Knowledge-based Bioinformatics: From Analysis to Interpretation. [Wiley](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470748311.html).
 
@@ -25,8 +25,13 @@ Basic Maths for biochesmists. Athel Cornish-Bowden.[Springer](http://link.spring
 Online courses
 ==============
 
-Web pages
-=========
+[An introduction to Applied Bioinformatics, Greg Caporaso](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics/).
 
-Scientific journals
-===================
+[How to use Git and GitHub (Udacity)](http://www.udacity.com/course/ud775).
+
+[Intro to computer science (Udacity)](http://www.udacity.com/course/cs101).
+
+[Data analysis with R (Udacity)](http://www.udacity.com/course/ud651).
+
+[How to use Git and GitHub (Udacity)](https://www.udacity.com/course/ud775).
+
