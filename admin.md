@@ -19,13 +19,14 @@ Registration for the 2015-2016 course can be done [here](http://www.ehu.es/en/we
 Contact and enquiries
 =====================
 
-For overall enquiries about the MSc, contact Mikel Egaña Aranguren (mikel.egana@ehu.es), CC-ing Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher.
+For overall enquiries contact Mikel Egaña Aranguren (mikel.egana@ehu.es), Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.es ), or Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher.
 
 Staff
 =====
 
 * Director: [Andone Estonba](http://www.ehu.es/eu/web/gaffa/content/-/asset_publisher/q66H/content/info_pag_andone_estonba).
 * Scientific director: [Mikel Egaña Aranguren](http://mikeleganaaranguren.com).
+* Scientific director: [Iratxe Zarraonaindia](http://www.genomic-resources.eu/?page_id=408).
 
 Lecturers
 =========
@@ -37,7 +38,10 @@ Lecturers
 * Andone Estonba [Genomic Resources](http://www.genomic-resources.eu/).
 * Mikel Egaña Aranguren [Genomic Resources](http://www.genomic-resources.eu/).
 * Igor Santos [S3Lab](http://s3lab.deusto.es).
-* Javier Nieves [http://s3lab.deusto.es](http://s3lab.deusto.es).
-* Borja Sanz [http://s3lab.deusto.es](http://s3lab.deusto.es).
+* Javier Nieves [S3Lab](http://s3lab.deusto.es).
+* Iñaki Inza [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
+* Jose Antonio Lozano [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
+* Borja Calvo [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
+* Alexander Mendiburu [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
 * More lecturers to be confirmed.
 
