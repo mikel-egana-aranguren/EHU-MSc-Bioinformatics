@@ -27,14 +27,11 @@ Each student should choose one of projects described bellow and contact the tuto
 Available projects
 ==================
 
-| Project | Tutor | Description  | Research/Development |
-| ------------- |-------------| -----|
-|  TBA     | Alberto Labarga | TBA |  TBA |
-|  TBA     | Mikel Egaña Aranguren | TBA |  TBA |
-|  TBA     | Marcos Arauzo | TBA |  TBA |
-|  TBA     | Iratxe Zarraonaindia | TBA |  TBA |
-|  TBA     | Igor Santos | TBA |  Development |
-|  TBA     | Mark D. Wilkinson | TBA |  TBA |
+* **Tutor Name:** Mikel Egaña Aranguren
+* **Tutor Email:** mikel.egana@ehu.es
+* **Project title:** Linked Data crawler for Metagenomics data
+* **Project type:** Development
+* **Project description:** Linked Data (http://www.w3.org/standards/semanticweb/data) is widely used to publish Data on the Web in a machine friendly manner, resulting in the Linked Open Data (LOD) cloud (http://lod-cloud.net/). Life Sciences data comprisses a considerable part of the LOD cloud, including (possibly) Metagenomics data. The aim of this project is to develop Web crawler that automatically browses Linked Data datasets of the LOD and retrieves Metagenomics related data. The crawler should be configurable and Metagenomics should be the test case: the crawler will be the outcome of the project, regardless of the Metagenomics data retrieved (it is acceptable for the crawler to retrieve non-significant data, quality or quantity wise, if it is demonstrated that it is not a fault of the crawling process).
 
 
 
