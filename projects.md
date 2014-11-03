@@ -27,6 +27,8 @@ Each student should choose one of projects described bellow and contact the tuto
 Available projects
 ==================
 
+#### Linked Data crawler for Metagenomics data (Development)
+
 Linked Data crawler for Metagenomics data (Development)
 -------------------------------------------------------
 
