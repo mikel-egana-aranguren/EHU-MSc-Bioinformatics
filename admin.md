@@ -35,6 +35,8 @@ Lecturers
 * Marcos Arauzo, [BioDonostia](http://www.biodonostia.org/en/areas_investigacion/bioengineering/computacional-biology-and-systems-biomedicine/).
 * Mark D. Wilkinson [Biological Informatics Group](http://www.wilkinsonlab.info/).
 * Iratxe Zarraonaindia [Genomic Resources](http://www.genomic-resources.eu/).
+* Iratxe Montes [Genomic Resources](http://www.genomic-resources.eu/).
+* Aitor Albaina [Genomic Resources](http://www.genomic-resources.eu/).
 * Andone Estonba [Genomic Resources](http://www.genomic-resources.eu/).
 * Mikel Egaña Aranguren [Genomic Resources](http://www.genomic-resources.eu/).
 * Igor Santos [S3Lab](http://s3lab.deusto.es).
@@ -43,5 +45,6 @@ Lecturers
 * Jose Antonio Lozano [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
 * Borja Calvo [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
 * Alexander Mendiburu [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
+* Peter B. Pearman [Computational Ecology Group](http://www.ikerbasque.net/index.php?option=com_researcher&task=view&rese=187&Itemid=302&lang=en_EN).
 * More lecturers to be confirmed.
 
