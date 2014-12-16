@@ -1,0 +1,13 @@
+Imagen Docker para pipelines de Metagenómica
+
+Una parte importante de los estudios metagenómicos consiste en evaluar la diversidad de una comunidad bacteriana mediante marcadores como 16S o CPN60. Los "reads" obtenidos mediante secuenciación de estos marcadores se analizan mediante pipelines como QUIIME. Sin embargo, la instalación, configuración y ejecución de estos pipelines es dificil debido a dependencias, configuracion, falta de usabilidad, y otros factores. Docker, un entorno de "virtualización", permite definir imágenes que capturan el entorno computacional (Sistema Operativo, software, librerias, datos), mejorando así la capacidad de reproducción de ejecuciones de pipelines, ya que el usuario solo necesita ejecutar la imagen. El alumno creará una imagen Docker que contenga:
+
+- Pipelines de Metagenómica ya configurados y comprobados (QIIME, MOTHUR, mPuma, ...).
+- Un dataset de reads, obtenido de un repositorio pubĺico, y el resultado de pasar esos reads por los pipelines.  
+- Una página Web con documentacion extensa sobre como usar los pipelines a traves de la imagen. 
+
+De modo que cualquier usuario que esté interesado en este tipo de análisis tenga un punto de partida fácil de usar.
+
+
+
+
