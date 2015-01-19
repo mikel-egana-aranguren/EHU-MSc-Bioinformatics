@@ -38,6 +38,8 @@ Lecturers
 * Iratxe Montes, [Genomic Resources](http://www.genomic-resources.eu/).
 * Aitor Albaina, [Genomic Resources](http://www.genomic-resources.eu/).
 * Mikel Egaña Aranguren, [Genomic Resources](http://www.genomic-resources.eu/).
+* Jorge Langa, [Genomic Resources](http://www.genomic-resources.eu/).
+* Fernando Rendo, [SGiker](http://www.genomic-resources.eu/).
 * Igor Santos, [S3Lab](http://s3lab.deusto.es).
 * Javier Nieves, [S3Lab](http://s3lab.deusto.es).
 * Iñaki Inza, [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).

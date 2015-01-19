@@ -45,16 +45,37 @@ In the first semester, a path must be chosen: (A) Life Sciences (for computer sc
 ==============================
 
 #### 3.- Applied bioinformatics I, Variation Analysis (Compulsory, both paths, 5 ECTS). 
-
-TBA.
+* Research methods in bioinformatics.
+* Whole Genome Sequencing and de novo sequencing.
+  * Introduction and data pre-processing.
+  * Data pre-processing. 
+  * Re-sequencing (Biomedicine).
+  * De novo sequencing (Environmental).
+  * Mutation discovery.
+  * Molecular phylogeny.
+* Reduced genome sequencing.
+  * Introduction and data pre-processing.
+  * Sequences capture. Exome analysis. 
+  * RAD/GBS sequencing. 
+  * De Novo transcriptome sequencing. 
+  * Alignment based approaches and assembly based approaches. 
+  * Gene structure: Identifying intron-exon boundaries (IEB). Determining complete transcripts. Mutation discovery. 
 
 #### 4.- Applied bioinformatics II, Expression analysis (Compulsory, both paths, 5 ECTS). 
-
-TBA.
+* Introduction to Big Data concerned with the analysis of DNA expression.
+* Transcriptomics. RNA-Seq. 
+  * RNA sequencing of protein-coding genes. Protein families.
+  * Gene expression microarrays: preprocess, differential expression and classification with R-Bioconductor.
+  * Functional analysis of genes sets. Gene Ontologies (GO).
+* Epigenomics.
+  * Methylomes: DNA methylation.
+  * Histone modification: ChIP-Seq.
+* Global analysis of Big Data. PCA, hierarchical clustering.
 
 #### 5.- Bioinformatics applied to biomedicine (Optional for both paths, 3 ECTS).
-
-TBA.
+* Human genome variation.
+* Genome Wide Association Studies (GWAS) in humans.
+* Epigenetic data analysis.
 
 #### 6.- Bioinformatics applied to the environment, populations, and non-model organisms (Optional for both paths, 3 ECTS). 
 * Metagenomics.
@@ -63,9 +84,7 @@ TBA.
 * Comparative genomics.
 * Ecological informatics.
 
-
-
 Project (May - September)
 =========================
 
-see /projects
+Please refer to [Projects](http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics//projects/).
