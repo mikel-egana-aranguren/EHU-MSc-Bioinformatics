@@ -11,13 +11,18 @@ image:
 share: 
 ---
 
-
-
 In order for a student to be awarded the degree, 30 ECTS credits must be completed: 22 taught ECTS and a 8 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
 
 In the first semester, a path must be chosen: (A) Life Sciences (for computer scientists) and (B) Computer Science (for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
 
-1st semester (October – February)
+The tuition will take place every friday, in the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct) (Room 0.24):
+
+* Course starts: 2015/11/09
+* Christmas holidays: 2015/12/21 - 2016/01/07 (18th of December and 8th of January are tuition days)
+* Course finishes: 2016/04/11
+* Project presentations: 2016/06/20 - 2016/06/24 
+
+1st semester (2015/11/09 – 2015/11/20)
 =================================
 
 #### 1A.- Introduction to genetics (Compulsory for the life sciences path, 3 ECTS). 
@@ -41,10 +46,10 @@ In the first semester, a path must be chosen: (A) Life Sciences (for computer sc
 * High Performance Computing: Infrastructures, Algorithms.
 * Web technologies: Web servers, Web APIs and mash-ups, Web services. Life Sciences Semantic Web.
 
-2nd Semester (February -  May)
+2nd Semester (2015/11/27 - 2016/04/11)
 ==============================
 
-#### 3.- Applied bioinformatics I, Variation Analysis (Compulsory, both paths, 5 ECTS). 
+#### 3.- Applied bioinformatics I, DNA Variation analysis (Compulsory, both paths, 5 ECTS). 
 * Research methods in bioinformatics.
 * Whole Genome Sequencing and de novo sequencing.
   * Introduction and data pre-processing.
@@ -61,7 +66,7 @@ In the first semester, a path must be chosen: (A) Life Sciences (for computer sc
   * Alignment based approaches and assembly based approaches. 
   * Gene structure: Identifying intron-exon boundaries (IEB). Determining complete transcripts. Mutation discovery. 
 
-#### 4.- Applied bioinformatics II, Expression analysis (Compulsory, both paths, 5 ECTS). 
+#### 4.- Applied bioinformatics II, DNA Expression analysis (Compulsory, both paths, 5 ECTS). 
 * Introduction to Big Data concerned with the analysis of DNA expression.
 * Transcriptomics. RNA-Seq. 
   * RNA sequencing of protein-coding genes. Protein families.
@@ -84,7 +89,7 @@ In the first semester, a path must be chosen: (A) Life Sciences (for computer sc
 * Comparative genomics.
 * Ecological informatics.
 
-Project (May - September)
+Project (2016/04/11 - 2016/06/20)
 =========================
 
 Two types of projects are available:
@@ -94,4 +99,7 @@ Two types of projects are available:
 * Development project: it focuses on the the technical aspect of bioinformatics, and the candidate will develop a program or system to achieve an specific aim. The project will be assesed technically, thus the performance, overall design, implementation skills, etc. will be taken into account, rather than the scientific result. The dissertation will be produced as a technical report.
 
 Each student should choose one [project](http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics//projects/) and contact the tutor. It is recommended that the project is chosen after the tutor has done her/his teaching (most probably in the second semester), since the teaching will be used to explain the project. The projects should be chosen by May and the tutors contacted by the students: the projects will be assigned in a first come first served basis, in the unlikely case of project overbooking.
+
+Project presentations (2016/06/20 - 2016/06/24)
+=========================
 
