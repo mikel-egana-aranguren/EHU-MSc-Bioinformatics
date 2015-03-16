@@ -30,6 +30,8 @@ For anonymous complains regarding the quality of the course use the following fo
     <input type="submit" value="Send">
 </form>
 
+At the end of the course students will be provided with a form to give an overall evaluation for the course. 
+
 Staff
 =====
 
