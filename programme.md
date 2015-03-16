@@ -15,7 +15,7 @@ In order for a student to be awarded the degree, 30 ECTS credits must be complet
 
 In the first semester, a path must be chosen: (A) Life Sciences (for computer scientists) and (B) Computer Science (for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
 
-The tuition will take place every friday, in the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct) (Room 0.24):
+The tuition will take place every friday, in the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct) (Room 0.24: 8:30 - 13:00; 14:30 - 19:00). 
 
 * Course starts: 2015/11/09
 * Christmas holidays: 2015/12/21 - 2016/01/07 (18th of December and 8th of January are tuition days)

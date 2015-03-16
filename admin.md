@@ -21,7 +21,14 @@ If you have any questions about the registration process, contact Nerea Elorriet
 Contact and enquiries
 =====================
 
-For overall enquiries contact Mikel Egaña Aranguren (mikel.egana@ehu.es), Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.es ), or Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher.
+For overall enquiries contact Mikel Egaña Aranguren (mikel.egana@ehu.es), Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.es ), or Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher. 
+
+For anonymous complains regarding the quality of the course use the following form.
+
+<form action="//formspree.io/mikel.egana.aranguren@gmail.com" method="POST">
+    <input type="text" name="name">
+    <input type="submit" value="Send">
+</form>
 
 Staff
 =====
