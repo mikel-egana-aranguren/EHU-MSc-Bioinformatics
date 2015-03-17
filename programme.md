@@ -11,11 +11,11 @@ image:
 share: 
 ---
 
-In order for a student to be awarded the degree, 30 ECTS credits must be completed: 22 taught ECTS and a 8 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
+In order for a student to be awarded the degree, 30 ECTS credits must be completed: 24 taught ECTS and a 6 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
 
-In the first semester, a path must be chosen: (A) Life Sciences (for computer scientists) and (B) Computer Science (for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
+In the first semester, a path will be assigned to each student, according to their background: (A) Life Sciences (mostly for computer scientists) and (B) Computer Science (mostly for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
 
-The tuition will take place every friday, in the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct) (Room 0.24: 8:30 - 13:00; 14:30 - 19:00). 
+The tuition will take place every friday (8:30 - 13:00; 14:30 - 19:00), in the Room 0.24 of the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct). 
 
 * Course starts: 2015/11/09
 * Christmas holidays: 2015/12/21 - 2016/01/07 (18th of December and 8th of January are tuition days)
@@ -89,7 +89,7 @@ The tuition will take place every friday, in the [Sciences and Technology Facult
 * Comparative genomics.
 * Ecological informatics.
 
-Project (2016/04/11 - 2016/06/20)
+Project (2016/04/11 - 2016/06/24)
 =========================
 
 Two types of projects are available:
@@ -100,6 +100,8 @@ Two types of projects are available:
 
 Each student should choose one [project](http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics//projects/) and contact the tutor. It is recommended that the project is chosen after the tutor has done her/his teaching (most probably in the second semester), since the teaching will be used to explain the project. The projects should be chosen by May and the tutors contacted by the students: the projects will be assigned in a first come first served basis, in the unlikely case of project overbooking.
 
-Project presentations (2016/06/20 - 2016/06/24)
-=========================
+The assessment of the project will be based on the content of the dissertation (75%) and the presentation (25%). The project will be 40% of the overall mark.
+
+Project presentations: 2016/06/20 - 2016/06/24
+
 

@@ -11,17 +11,24 @@ image:
 share: 
 ---
 
+Staff
+=====
+
+* Director: [Andone Estonba](http://www.ehu.es/eu/web/gaffa/content/-/asset_publisher/q66H/content/info_pag_andone_estonba).
+* Scientific director: [Mikel Egaña Aranguren](http://mikeleganaaranguren.com).
+* Scientific director: [Iratxe Zarraonaindia](http://www.genomic-resources.eu/?page_id=408).
+
 Registration
 ============
 
 Registration for the 2015-2016 course can be done [here](http://www.ehu.es/en/web/titulospropios/izena-emateko-prozedura). Registration should be completed on the 2015/06/15 - 2015/07/03. The tuition fee is 1950 €, including a configured laptop (GNU/Linux and necessary software).
 
-If you have any questions about the registration process, contact Nerea Elorrieta (nerea.elorrieta@ehu.es) CC-ing Mikel Egaña Aranguren (mikel.egana@ehu.es).
+If you have any questions about the registration process, contact Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.eus).
 
 Contact and enquiries
 =====================
 
-For overall enquiries contact Mikel Egaña Aranguren (mikel.egana@ehu.es), Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.es ), or Andone Estonba (andone.estonba@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher. 
+For overall enquiries contact, Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.es), Andone Estonba (andone.estonba@ehu.es), or Mikel Egaña Aranguren (mikel.egana@ehu.es). For questions about specific projects or taught modules, contact the responsible teacher. 
 
 For anonymous complains regarding the quality of the course use the following form.
 
@@ -31,13 +38,6 @@ For anonymous complains regarding the quality of the course use the following fo
 </form>
 
 At the end of the course students will be provided with a form to give an overall evaluation for the course. 
-
-Staff
-=====
-
-* Director: [Andone Estonba](http://www.ehu.es/eu/web/gaffa/content/-/asset_publisher/q66H/content/info_pag_andone_estonba).
-* Scientific director: [Mikel Egaña Aranguren](http://mikeleganaaranguren.com).
-* Scientific director: [Iratxe Zarraonaindia](http://www.genomic-resources.eu/?page_id=408).
 
 Lecturers
 =========
@@ -59,5 +59,4 @@ Lecturers
 * Alexander Mendiburu, [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
 * Jose Miguel-Alonso, [Intelligent Systems Group](http://www.sc.ehu.es/ccwbayes/isg/).
 * Peter B. Pearman, [Computational Ecology Group](http://www.ikerbasque.net/index.php?option=com_researcher&task=view&rese=187&Itemid=302&lang=en_EN).
-* More lecturers to be confirmed.
 

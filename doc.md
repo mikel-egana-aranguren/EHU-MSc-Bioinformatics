@@ -25,7 +25,7 @@ Basic Maths for biochesmists. Athel Cornish-Bowden. [Springer](http://link.sprin
 Online courses
 ==============
 
-[An introduction to Applied Bioinformatics, Greg Caporaso](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics/).
+[An introduction to Applied Bioinformatics, by Greg Caporaso](http://caporasolab.us/An-Introduction-To-Applied-Bioinformatics/).
 
 [How to use Git and GitHub (Udacity)](http://www.udacity.com/course/ud775).
 
@@ -33,5 +33,4 @@ Online courses
 
 [Data analysis with R (Udacity)](http://www.udacity.com/course/ud651).
 
-[How to use Git and GitHub (Udacity)](https://www.udacity.com/course/ud775).
 
