@@ -11,7 +11,7 @@ image:
 share: 
 ---
 
-In order for a student to be awarded the degree, 30 ECTS credits must be completed: 24 taught ECTS and a 6 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
+In order for a student to be awarded the degree, 30 ECTS credits must be completed: 23 taught ECTS and a 7 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
 
 In the first semester, a path will be assigned to each student, according to their background: (A) Life Sciences (mostly for computer scientists) and (B) Computer Science (mostly for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
 
@@ -38,7 +38,7 @@ The tuition will take place every friday (9:00 - 13:00; 14:00 - 18:00), in the R
 * Bioinformatics programming in Perl: regular expressions and file parsing, Perl libraries for bioinformatics.
 * Introduction to computational complexity and R language.
 * Object Oriented Programming with Python.
-* Databases: managing and using relational databases, introduction to NoSQL databases.
+* Data Bases: managing and using relational Data Bases, introduction to NoSQL Data Bases.
 
 #### 2.- Advanced computing (Compulsory, both paths, 6 ECTS).
 * Introduction to Data mining and Heuristic Optimization: principal techniques and bioinformatics applications.
@@ -49,8 +49,9 @@ The tuition will take place every friday (9:00 - 13:00; 14:00 - 18:00), in the R
 2nd Semester (2015/11/27 - 2016/04/11)
 ==============================
 
-#### 3.- Applied bioinformatics I, DNA Variation analysis (Compulsory, both paths, 5 ECTS). 
+#### 3.- Applied bioinformatics I, DNA Variation analysis (Compulsory, both paths, 7 ECTS). 
 * Research methods in bioinformatics.
+* Common Data Bases and Web resources in Bioinformatics.
 * Whole Genome Sequencing and de novo sequencing.
   * Introduction and data pre-processing.
   * Data pre-processing. 
@@ -66,7 +67,7 @@ The tuition will take place every friday (9:00 - 13:00; 14:00 - 18:00), in the R
   * Alignment based approaches and assembly based approaches. 
   * Gene structure: Identifying intron-exon boundaries (IEB). Determining complete transcripts. Mutation discovery. 
 
-#### 4.- Applied bioinformatics II, DNA Expression analysis (Compulsory, both paths, 5 ECTS). 
+#### 4.- Applied bioinformatics II, DNA Expression analysis (Compulsory, both paths, 4 ECTS). 
 * Introduction to Big Data concerned with the analysis of DNA expression.
 * Transcriptomics. RNA-Seq. 
   * RNA sequencing of protein-coding genes. Protein families.
