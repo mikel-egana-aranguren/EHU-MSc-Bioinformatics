@@ -13,7 +13,7 @@ share:
 
 In order for a student to be awarded the degree, 30 ECTS credits must be completed: 23 taught ECTS and a 7 ECTS research/development project including a dissertation. 1 ECTS is equivalent to a student working 30 hours: 10 tuition hours (Theory and/or lab practical work) and 20 homework hours.
 
-In the first semester, a path will be assigned to each student, according to their background: (A) Life Sciences (mostly for computer scientists) and (B) Computer Science (mostly for life scientists). In the second semester, one of the three optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
+In the first semester, a path will be assigned to each student, according to their background: (A) Life Sciences (mostly for computer scientists) and (B) Computer Science (mostly for life scientists). In the second semester, one of the two optional modules must be chosen: an optional module represents a concrete application of Bioinformatics.
 
 The tuition will take place every friday (9:00 - 13:00; 14:00 - 18:00), in the Room 0.24 of the [Sciences and Technology Faculty (ZTF-FCT)](http://www.ehu.eus/eu/web/ztf-fct). 
 
@@ -101,7 +101,7 @@ Two types of projects are available:
 
 Each student should choose one [project](http://mikel-egana-aranguren.github.io/EHU-MSc-Bioinformatics//projects/) and contact the tutor. It is recommended that the project is chosen after the tutor has done her/his teaching (most probably in the second semester), since the teaching will be used to explain the project. The projects should be chosen by May and the tutors contacted by the students: the projects will be assigned in a first come first served basis, in the unlikely case of project overbooking.
 
-The assessment of the project will be based on the content of the dissertation (75%) and the presentation (25%). The project will be 40% of the overall mark.
+The assessment of the project will be based on the content of the dissertation (75%) and the oral presentation (25%). The project will be 40% of the overall mark.
 
 Project presentations: 2016/06/20 - 2016/06/24
 
