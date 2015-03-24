@@ -21,7 +21,7 @@ Staff
 Registration
 ============
 
-Registration for the 2015-2016 course can be done [here](http://www.ehu.es/en/web/titulospropios/izena-emateko-prozedura). Registration should be completed on the 2015/06/15 - 2015/07/03. The tuition fee is 1950 €, including a configured laptop (GNU/Linux and necessary software).
+Registration for the 2015-2016 course can be done [here](http://www.ehu.es/en/web/titulospropios/izena-emateko-prozedura). Registration should be completed on the 2015/06/15 - 2015/07/03. The tuition fee is 1950 €, including a configured laptop, with GNU/Linux and necessary software ([VantPC](http://www.vantpc.es/productos/equipos_portatiles/vant-moove-pro-2)).
 
 If you have any questions about the registration process, contact Iratxe Zarraonaindia (iratxe.zarraonaindia@ehu.eus).
 
